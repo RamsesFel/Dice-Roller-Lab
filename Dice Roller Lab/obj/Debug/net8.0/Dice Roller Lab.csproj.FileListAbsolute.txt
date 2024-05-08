@@ -1,0 +1,14 @@
+C:\Users\Ramses\source\repos\Grand Circus\Labs\Dice Roller Lab\Dice Roller Lab\bin\Debug\net8.0\Dice Roller Lab.exe
+C:\Users\Ramses\source\repos\Grand Circus\Labs\Dice Roller Lab\Dice Roller Lab\bin\Debug\net8.0\Dice Roller Lab.deps.json
+C:\Users\Ramses\source\repos\Grand Circus\Labs\Dice Roller Lab\Dice Roller Lab\bin\Debug\net8.0\Dice Roller Lab.runtimeconfig.json
+C:\Users\Ramses\source\repos\Grand Circus\Labs\Dice Roller Lab\Dice Roller Lab\bin\Debug\net8.0\Dice Roller Lab.dll
+C:\Users\Ramses\source\repos\Grand Circus\Labs\Dice Roller Lab\Dice Roller Lab\bin\Debug\net8.0\Dice Roller Lab.pdb
+C:\Users\Ramses\source\repos\Grand Circus\Labs\Dice Roller Lab\Dice Roller Lab\obj\Debug\net8.0\Dice Roller Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramses\source\repos\Grand Circus\Labs\Dice Roller Lab\Dice Roller Lab\obj\Debug\net8.0\Dice Roller Lab.AssemblyInfoInputs.cache
+C:\Users\Ramses\source\repos\Grand Circus\Labs\Dice Roller Lab\Dice Roller Lab\obj\Debug\net8.0\Dice Roller Lab.AssemblyInfo.cs
+C:\Users\Ramses\source\repos\Grand Circus\Labs\Dice Roller Lab\Dice Roller Lab\obj\Debug\net8.0\Dice Roller Lab.csproj.CoreCompileInputs.cache
+C:\Users\Ramses\source\repos\Grand Circus\Labs\Dice Roller Lab\Dice Roller Lab\obj\Debug\net8.0\Dice Roller Lab.dll
+C:\Users\Ramses\source\repos\Grand Circus\Labs\Dice Roller Lab\Dice Roller Lab\obj\Debug\net8.0\refint\Dice Roller Lab.dll
+C:\Users\Ramses\source\repos\Grand Circus\Labs\Dice Roller Lab\Dice Roller Lab\obj\Debug\net8.0\Dice Roller Lab.pdb
+C:\Users\Ramses\source\repos\Grand Circus\Labs\Dice Roller Lab\Dice Roller Lab\obj\Debug\net8.0\Dice Roller Lab.genruntimeconfig.cache
+C:\Users\Ramses\source\repos\Grand Circus\Labs\Dice Roller Lab\Dice Roller Lab\obj\Debug\net8.0\ref\Dice Roller Lab.dll
